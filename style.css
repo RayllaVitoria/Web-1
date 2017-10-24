@@ -56,18 +56,6 @@ nav ul li a:hover{
 	width: 1000px;
 }
 
-.Corpo_Central{
-
-	border-width: 2px;
-  border-style: dashed;
-  border-color: #C0C0C0;
-	color: black;
-	background-color: #fff;
-	width: 650px;
-	padding: 5px;
-	margin: 5px;
-}
-
 .post{
 
 	border-width: medium;
