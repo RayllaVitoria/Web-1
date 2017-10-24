@@ -36,23 +36,3 @@ nav ul li{
 	width: 1000px;
 }
 
-.post{
-
-	border-width: medium;
-  border-style: solid;
-  border-color: #E5E5E5;
-	margin:  5px;
-	color: #9FE12D;
-	background: #1C1917;
-	width: 650px;
-	height: 30px;
-	padding: 5px;
-}
-
-
-
-.Link{
-
- 	text-decoration:none;
- 	color: #E52329;
-}
