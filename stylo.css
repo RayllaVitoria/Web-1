@@ -36,14 +36,7 @@
 .site{
   text-align: center;
 }
-.Postagem{
 
-  background-color: red;
-  margin: 20px auto;
-  width: 80%;
-  height:  1000px;
-  text-align: center;
-}
 .RodaPe{
   background: linear-gradient(to bottom, #cc00cc 0%, #99ccff 100%);
   width: auto ;
