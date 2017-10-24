@@ -7,3 +7,4 @@ $(document).on('scroll', function () {
         $meuMenu.removeClass('fixar');
     }
 });
+alert("Passou Aqui!");
